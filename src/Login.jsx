@@ -75,3 +75,4 @@ function Login({ onLoginSuccess }) {
     </div>
   )
 }
+export default Login;
